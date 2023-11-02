@@ -1,0 +1,9 @@
+.id{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-top: 2px solid white;
+}

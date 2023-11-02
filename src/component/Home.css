@@ -1,0 +1,8 @@
+.hero{
+    width: 99vw;
+    height: 100vh;
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/de230374063245.5e86136905c0b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
